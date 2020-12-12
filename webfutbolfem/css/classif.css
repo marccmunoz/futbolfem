@@ -1,0 +1,15 @@
+footer {
+    width: 100%;
+    background-color: #004ED6;
+    margin-top: 50px;
+    text-align: center;
+    padding: 5px;
+}
+
+.tableclas {
+    margin-top: 2%;
+    margin-left: 35%;
+    align-items: center;
+    text-align: center;
+    background-color:  #004ED6;
+}

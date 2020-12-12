@@ -1,0 +1,20 @@
+footer {
+    width: 100%;
+    background-color: #004ED6;
+    margin-top: 50px;
+    text-align: center;
+    padding: 5px;
+}
+
+main {
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+p {
+    border: 1px white solid;
+    border-radius: 5px;
+    background-color: #004ED6;
+    width: 1300px;
+    padding: 3px;
+}

@@ -1,0 +1,21 @@
+.frame {
+    position: absolute;
+    width: 750px;
+    height: 500px;
+    float: right;
+    margin-left: 28%;
+    margin-top: -370px;
+}
+
+.divindex {
+    margin-top: 75px;
+    margin-left: 50px;
+}
+
+footer {
+    width: 100%;
+    background-color: #004ED6;
+    margin-top: 200px;
+    text-align: center;
+    padding: 5px;
+}

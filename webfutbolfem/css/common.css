@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    background-image: url(../img/fondo.jpg);
+    color: white;
+}
+      
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    }
+
+    nav li{
+    display:inline-block;
+    width:5%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
+
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+
+    header {
+        width:100%;
+        overflow:hidden;
+        background-color: #004ED6;
+        background-size: cover;
+        background-position: 50%;
+    }
+
+    .iberdrola {
+        float: left;
+        width: 525px;
+        height: 150px;
+        margin: 15px;
+    }
+
+    .indexboton {
+        margin-left: 500px;
+        margin-top: 60px;
+    }
+
+    h2 {
+        text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px  black, -1px -1px 0  black, 1px -1px 0 black, -1px 1px 0 black;
+    }
